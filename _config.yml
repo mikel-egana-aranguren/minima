@@ -1,7 +1,7 @@
-title: Work Notebook
+title: Work Notebook (Mikel Egaña Aranguren)
 author: Mikel Egaña Aranguren
 email: mikel.egana.aranguren@gmail.com
-description: Mikel Egaña Work Notebook
+description: Mikel Egaña Aranguren Work Notebook
 
 # social links
 twitter_username: mikel_egana	
@@ -33,7 +33,7 @@ minima:
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-#header_pages:
+header_pages:
 # - about.md
 
 # Build settings
