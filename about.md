@@ -4,8 +4,7 @@ title: About
 permalink: /about/
 ---
 
-# About me
-
+## About me
 
 My name is Mikel Egaña Aranguren. I’m a biologist by the University of Basque Country; I also hold a PhD in computer science and an MSc in Bioinformatics, both awarded by the Univesity of Manchester, UK.
 
@@ -13,7 +12,7 @@ I have mainly worked in an academic setting (UM, UPM and UPV/EHU in Spain; VIB i
 
 Homepage: http://mikel-egana-aranguren.github.io
 
-# About Minima
+## About Minima
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
