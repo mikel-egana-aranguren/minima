@@ -7,7 +7,7 @@ categories: meeting
 
 * Idoia Martínez: terminando el doctorado sobre Adenoma Hipofisario.
 * Mona, post-doc visitante: DSDs exomes?
-* **Mikel**: médico y estudiante de máster. Está estudiando la microbiota intestinal, igual sería interesante ayudarle con el uso de [QUIIME](http://qiime.org/)?**TODO**: preguntarle .
+* **Mikel**: médico y estudiante de máster. Está estudiando la microbiota intestinal, igual sería interesante ayudarle con el uso de [QUIIME](https://qiime2.org/)?**TODO**: preguntarle .
 * Josep Oriol: enfermero. Estudio sobre la incidencia de la diabetes en euskadi. El análisis de datos lo hará Lorea. 
 * Olaia Velasco: técnica en alimentación, estudio sobre obesidad.
 * Luis comenta que debería haber una infraestructura informática dentro de cada plataforma **TODO**: propuesta plan estratégico recursos informáticos. Ahora sólo existe el cluster, que en este grupo parece que no lo usan. **TODO**: familiarizarme con el cluster.
