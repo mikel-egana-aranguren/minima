@@ -6,7 +6,7 @@ categories: meeting
 ### Reunión con el grupo de [Investigación en Genética y Control de Diabetes y Enfermedades Endocrinas](https://www.biocrucesbizkaia.org/web/biocruces/bc3.02)
 
 * Idoia Martínez: terminando el doctorado sobre Adenoma Hipofisario.
-* Mona, post-doc visitante: DSDs exomes?
+* Mona, post-doc visitante: hypospadia exome.
 * **Mikel Gallego Rodrigo**: médico y estudiante de máster. Está estudiando la microbiota intestinal, igual sería interesante ayudarle con el uso de [QUIIME](https://qiime2.org/)?**TODO**: preguntarle .
 * Josep Oriol: enfermero. Estudio sobre la incidencia de la diabetes en euskadi. El análisis de datos lo hará Lorea. 
 * Olaia Velasco: técnica en alimentación, estudio sobre obesidad.
