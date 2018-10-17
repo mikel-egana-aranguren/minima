@@ -24,3 +24,9 @@ Fernando quiere pedir otro equipo más potente para hacer análisis estadistíco
 La estructura de la plataforma es un poco rara. Tienen proyectos, servicios, investigación, etc.
 
 Un ejemplo de unos datos a preservar serían `S:\LABORATO\Metabolopatias\Fernando\Fenilbutirato` (no tengo acceso).
+
+### [Coordinación de Propuestas, Acuerdos, Convenios y Producción Científica](https://www.biocrucesbizkaia.org/gestion/propuestas-acuerdos-produccion-cientifica)
+
+Eunate Arana va a apreguntar a Mari Luz a ver si me puedo meter en proyectos Europeos. 
+
+Eva Tabernero, de nuemología, me pone en contacto con Nuria Marina, para un proyecto que consiste en cruzar datos de espirometrias con historiales clinicos. El proyecto lo financia [SEPAR](https://www.separ.es/). Mi labor consistiría en crear la BBDD cruzada para que Lorea pueda hacer los análisis estadísticos.
