@@ -25,7 +25,15 @@ La estructura de la plataforma es un poco rara. Tienen proyectos, servicios, inv
 
 Un ejemplo de unos datos a preservar serían `S:\LABORATO\Metabolopatias\Fernando\Fenilbutirato` (no tengo acceso).
 
-### Plataforma génetica (19-10-2018)
+### [Plataforma génetica (updated 19-10-2018)](https://www.biocrucesbizkaia.org/web/biocruces/genetica-genomica)
+
+Tienen muchos problemas de almacenamiento:
+
+* Servidor interno (*.*.*.4), con capacidad de un TB, casi lleno.
+* Servidor interno (*.*.*.24), con capacidad de un TB, no se puede usar.
+* 14 (?!) cuentas en la nube de Ion Torrent.
+
+Además algunos programas de análisis no funcionan bien, como el [IGV (Integrative Genome Viewer)](http://software.broadinstitute.org/software/igv/), por falta de memoria y problemas con Java.
 
 ### [Coordinación de Propuestas, Acuerdos, Convenios y Producción Científica](https://www.biocrucesbizkaia.org/gestion/propuestas-acuerdos-produccion-cientifica)
 
