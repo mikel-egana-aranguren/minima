@@ -25,6 +25,8 @@ La estructura de la plataforma es un poco rara. Tienen proyectos, servicios, inv
 
 Un ejemplo de unos datos a preservar serían `S:\LABORATO\Metabolopatias\Fernando\Fenilbutirato` (no tengo acceso).
 
+### Plataforma génetica (19-10-2018)
+
 ### [Coordinación de Propuestas, Acuerdos, Convenios y Producción Científica](https://www.biocrucesbizkaia.org/gestion/propuestas-acuerdos-produccion-cientifica)
 
 Eunate Arana va a apreguntar a Mari Luz a ver si me puedo meter en proyectos Europeos. 
